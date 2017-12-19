@@ -20,7 +20,7 @@ Add this in composer.json
 HOW TO USE
 ------------
 
-`img_path` - Path to origin file. Required!
+`img_path` - Path to origin file. Required!  
 `tumb_dir` - Dir with path where preview will located, don't use slash at the end! Default is `tumb`  
 `tumb_name` - Name of the preview file, don't forget extension! Default is `tumb.jpg`  
 `tumb_width` - Set width size of preview, default is `150`  
